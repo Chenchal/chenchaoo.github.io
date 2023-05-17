@@ -46,7 +46,7 @@ analytics: G-R8SZS2YBZK
 fbadmin: ar.maybach
 
 # Paginate
-paginate: 4
+paginate: 6
 paginate_path: 'page:num'
 words_per_minute: 300
 
