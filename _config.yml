@@ -1,12 +1,12 @@
 # Site settings
-title: CHENCHAO+
+title: #CHENCHAO+
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://chenchaoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/CCClogo_icon.svg"
 logo-icon: "/assets/img/branding/CCClogo_icon.svg"
-logo-icon-SEO: "/assets/img/branding/CCClogo_Dark.png" # must be a non SVG file
+logo-icon-SEO: "/assets/img/branding/CCClogo.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,7 +20,7 @@ logo-icon-SEO: "/assets/img/branding/CCClogo_Dark.png" # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
+logo-dark: "/assets/img/branding/CCClogo_1.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
@@ -46,9 +46,9 @@ analytics: G-R8SZS2YBZK
 fbadmin: ar.maybach
 
 # Paginate
-paginate: 6
+paginate: 4
 paginate_path: 'page:num'
-words_per_minute: 200
+words_per_minute: 300
 
 extensions:
   mermaid_enable: true
