@@ -4,7 +4,7 @@ description: 'Artificial Intelligence trends and concepts made easy.' # this mea
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://chenchaoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/CCClogo_icon.svg"
+logo: "/assets/img/branding/CCClogo.svg"
 logo-icon: "/assets/img/branding/CCClogo_icon.svg"
 logo-icon-SEO: "/assets/img/branding/CCClogo.png" # must be a non SVG file
 
