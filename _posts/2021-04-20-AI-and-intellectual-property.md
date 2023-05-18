@@ -2,12 +2,12 @@
 layout: post
 read_time: true
 show_date: true
-title: "Who owns the copyright for an AI generated creative work?"
-date: 2021-04-20
+title: ""Bio-Human-Robot": Research on Human-Computer Biomimetic Interaction Migration Based on Human Perspective"
+date: 2023-05-18
 img: posts/20210420/post8-rembrandt.jpg
-tags: [copyright, creativity, neural networks, machine learning, artificial intelligence]
+tags: [neural networks, machine learning, artificial intelligence, robot control, Augmented Reality, human-computer interaction]
 category: opinion
-author: Armando Maynez
+author: CHENcharl
 description: "As neural networks are used more and more in the creative process, text, images and even music are now created by AI, but who owns the copyright for those works?"
 ---
 Recently I was [reading an article](https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/) about a cool project that intends to have a neural network create songs of the late club of the 27 (artists that have tragically died at age 27 or near, and in the height of their respective careers), artists such as Amy Winehouse, Jimmy Hendrix, Curt Cobain and Jim Morrison.
