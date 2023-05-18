@@ -2,12 +2,12 @@
 layout: post
 read_time: true
 show_date: true
-title:  Machine Learning Library in Python from scratch
+title:  Dongjing LU
 date:   2021-02-28 12:32:20 -0600
 description: Single neuron perceptron that classifies elements learning quite quickly.
 img: posts/20210228/MLLibrary.jpg 
 tags: [machine learning, coding, neural networks, python]
-author: Armando Maynez
+author: CHENCharl
 github: amaynez/GenericNeuralNetwork/
 ---
 It must sound crazy that in this day and age, when we have such a myriad of amazing machine learning libraries and toolkits all open sourced, all quite well documented and easy to use, I decided to create my own ML library from scratch.
