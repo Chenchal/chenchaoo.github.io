@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: ""Bio-Human-Robot": Research on Human-Computer Biomimetic Interaction Migration Based on Human Perspective"
+title: "Bio-Human-Robot: Research on Human-Computer Biomimetic Interaction Migration Based on Human Perspective"
 date: 2023-05-18
 img: posts/20210420/post8-rembrandt.jpg
 tags: [neural networks, machine learning, artificial intelligence]
