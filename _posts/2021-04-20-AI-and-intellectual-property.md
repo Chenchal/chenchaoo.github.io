@@ -6,7 +6,7 @@ title: ""Bio-Human-Robot": Research on Human-Computer Biomimetic Interaction Mig
 date: 2023-05-18
 img: posts/20210420/post8-rembrandt.jpg
 tags: [neural networks, machine learning, artificial intelligence]
-category: opinion
+category: theory
 author: CHENcharl
 description: "As neural networks are used more and more in the creative process, text, images and even music are now created by AI, but who owns the copyright for those works?"
 ---
